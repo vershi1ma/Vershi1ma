@@ -1,16 +1,13 @@
-## Hi there 👋
+# Vershima Tarza
+Cloud & DevOps | Abuja, Nigeria
 
-<!--
-**vershi1ma/Vershi1ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and document hands-on AWS and DevOps projects, with security built in from the start. Open to junior cloud, DevOps or IT support roles in Abuja, Lagos or remote.
 
-Here are some ideas to get you started:
+## Featured projects
+- **Cloud-DevOps:** self-healing AWS web tier, k3s CI/CD pipeline, Terraform, serverless services
+- **security:** (one line to be added once I've read this repo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolbox
+AWS (EC2, S3, IAM, VPC, Lambda, RDS, DynamoDB, SQS, API Gateway, GuardDuty) · Terraform · Docker · Kubernetes (k3s) · GitHub Actions · Linux · Bash · Python · Trivy · Checkov · gitleaks
+
+LinkedIn: linkedin.com/in/vershima-tarza
